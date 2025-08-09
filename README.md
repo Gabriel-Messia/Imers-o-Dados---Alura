@@ -1,2 +1,2 @@
-# Imers-o-Dados---Alura
+# Imersao Dados---Alura
 Imersão de dados com Python realizada com a Alura em Agosto de 2025
